@@ -75,8 +75,8 @@ Use the outstanding DNS, public-listener, device-ingestion, and media-path quest
 | --- | --- |
 | Solutions Architect Associate exam | $150 |
 | CloudOps Associate exam | $150 |
-| Skill Builder monthly subscription: 6 x $29 | $174 |
-| Planned total before tax and lab usage | $474 |
+| Skill Builder monthly subscription (optional): 6 x $29 | $174 |
+| Planned total before tax and lab usage | $474 ($300 with no subscription) |
 
 AWS offers a 50% discount on the next certification exam after earning a certification. Passing Solutions Architect first and applying that benefit to CloudOps would reduce the planned total to **$399**. Confirm the benefit before booking. Retakes, optional exams, live classroom courses, taxes, and AWS lab infrastructure charges are excluded. [AWS Solutions Architect Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/); [AWS exam pricing](https://aws.amazon.com/certification/policies/before-testing/).
 
